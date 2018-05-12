@@ -1,0 +1,30 @@
+_repo: Phylogeny-of-the-Waxwings-and-Allied-Birds_34556
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arvey, M. Dale (Martin Dale)
+    birthdate: 1915
+    gutenberg_agent_id: '37082'
+    url: http://www.gutenberg.org/2009/agents/37082
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2010-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34556'
+  lccn: '51061997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bombycillidae -- Phylogeny'
+- !lcsh 'Waxwings -- Phylogeny'
+- !lcc 'QH'
+title: Phylogeny of the Waxwings and Allied Birds
+url: http://www.gutenberg.org/ebooks/34556
